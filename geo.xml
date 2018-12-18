@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name><![CDATA[sde_wr.SDE.z0_aposts_kras]]></name>
+  <open>1</open>
+  <Snippet maxLines="0"><![CDATA[]]></Snippet>
+  <description><![CDATA[Exported from sde_wr.SDE.z0_aposts_kras on 11.12.2012]]></description>
+  <Style id="FEATURES_LABELS">
+    <IconStyle>
+      <color>00000000</color>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>FFFFFFFF</color>
+    </LabelStyle>
+  </Style>
+  <Folder>
+    <name>Feature Labels (<![CDATA[post]]>)</name>
+    <open>0</open>
+
+      <Placemark>
+        <name><![CDATA[АПН «Ачинск-Юго-Восточный» (адрес: г. Ачинск, Юго-Восточный район, между д. 14 и д. 25, создан в 2009 году)]]></name>
+        <description>test457678</description>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            90.499444,56.251333,1
+          </coordinates>
+        </Point>
+      </Placemark>
+    <Placemark>
+      <name><![CDATA[АПН «Красноярск-Кубеково» (адрес: д. Кубеково, ул. Новая, в районе д. 6, создан в 2012 году)]]></name>
+      <styleUrl>#FEATURES_LABELS</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>
+          93.11350833,56.14383056,6
+        </coordinates>
+      </Point>
+    </Placemark>
+	<Placemark>
+        <name><![CDATA[АПН «Красноярск-Покровка» (адрес: г. Красноярск, ул. Авиационная д 86, создан в 2018 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+			92.860477,56.025896,11
+          </coordinates>
+        </Point>
+      </Placemark>	
+    <Placemark>
+        <name><![CDATA[АПН «Красноярск-Березовка» (адрес: п. Берёзовка, ул. Береговая, в районе д. 40, создан в 2010 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            93.13659167,56.04636111,3
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[АПН «Красноярск-Северный» (адрес: г. Красноярск, ул. Мате Залки, между д. 4а и д. 4, создан в 2009 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            92.942475,56.0677833300001,2
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[АПН «Красноярск-Солнечный» (адрес: г. Красноярск, бульвар Солнечный, в районе д. 2, создан в 2011 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            92.9341138900001,56.1172694400001,4
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[АПН «Красноярск-Черемушки» (адрес: г. Красноярск, ул. Львовская, в районе д. 50, создан в 2012 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            93.0124888900001,55.9992722200001,5
+          </coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <name><![CDATA[АПН «Красноярск-Ветлужанка» (адрес: г. Красноярск, ул. Гусарова, между д. 9 и д. 1А, создан в 2017 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            92.765433,56.029337,7
+          </coordinates>
+        </Point>
+      </Placemark>
+	  <Placemark>
+        <name><![CDATA[АПН «Зеленогорск» (адрес: г. Зеленогорск, ул. Парковая, в районе д. 15, создан в 2017 году)]]></name>
+        <styleUrl>#FEATURES_LABELS</styleUrl>
+        <Point>
+          <extrude>1</extrude>
+          <altitudeMode>relativeToGround</altitudeMode>
+          <coordinates>
+            94.572602,56.105722,10
+          </coordinates>
+        </Point>
+      </Placemark>	     
+  </Folder>
+</Document>
+</kml>
